@@ -1,0 +1,47 @@
+@font-face{ 
+            font-family: "DSDIGI";
+            src: url('http://www.fontsforweb.com/public/fonts/1091/DSDIGI.eot');
+            src: local("DS-Digital"), url('http://www.fontsforweb.com/public/fonts/1091/DSDIGI.woff') format("woff"), url('http://www.fontsforweb.com/public/fonts/1091/DSDIGI.ttf') format("truetype");
+        }
+        .fontsforweb_fontid_1091 {
+            font-family: "DSDIGI";
+        }
+        
+
+  @font-face{ 
+            font-family: "AGENCYB";
+            src: url('http://fontsforweb.com/public/fonts/5118/AGENCYB.eot');
+            src: local("Agency FB Bold"), url('http://fontsforweb.com/public/fonts/5118/AGENCYB.woff') format("woff"), url('http://fontsforweb.com/public/fonts/5118/AGENCYB.ttf') format("truetype");
+        }
+        .fontsforweb_fontid_5118 {
+            font-family: "AGENCYB";
+        }
+
+
+@font-face { 
+			font-family: 'exo_bold_italic'; 
+			src: url('http://www.new-leaf.co/fonts/exo_bold_italic.eot'); 
+			src: url('http://www.new-leaf.co/fonts/exo_bold_italic.eot?#iefix') format('embedded-opentype'), url('http://www.new-leaf.co/fonts/exo_bold_italic.ttf') format('truetype'); 
+			/*font-weight: normal; font-style: normal;*/ 
+			}
+
+
+body
+{
+    background-color: black;
+    color: white;
+    font-family: 'exo_bold_italic';
+    font-size: 13px;
+}
+
+
+ a 
+ {
+   color:yellow;
+   font-family: "DSDIGI";
+   font-size: 14px;
+ }
+
+
+
+
